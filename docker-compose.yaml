@@ -1,0 +1,5 @@
+version: '2'
+services:
+  timer:
+    image: oputin/timer
+    container_name: timer
